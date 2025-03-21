@@ -12,6 +12,7 @@ This Jupyter Notebook (`min_max_extractor.ipynb`) is designed to scan a director
 ### 2. Prepare the Data Directory
 - Make sure the notebook is located in the same directory as the "Data" folder:
 ```
+Parent_Folder/
 ├── Data/
 |  ├── subfolder1/
 |  │   ├── file1.csv
