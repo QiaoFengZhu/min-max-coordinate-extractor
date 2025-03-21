@@ -25,4 +25,4 @@ This Jupyter Notebook (`min_max_extractor.ipynb`) is designed to scan a director
 ### 3. Run the notebook
 - Make sure that the Data folder containing the csv files is named 'Data'. If not, change the string assigned to 'data_folder_path' at the top of cell 2 to the coresponding folder name.
 - Execute the cells in the notebook.
-- The results will be outputed in a summary csv file named 'Locations.csv' in the same directory as the notebook. 
+- The results will be outputed in a summary csv file named 'Locations.csv' in the same directory as the notebook. The summary file name can be modified by changing the string assigned to 'output_file_path' variable at the end of cell 2.
