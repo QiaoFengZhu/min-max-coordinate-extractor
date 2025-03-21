@@ -20,7 +20,7 @@ This Jupyter Notebook (`min_max_extractor.ipynb`) is designed to scan a director
 |  ├── subfolder2/
 |  │   └── file3.csv
 |  └── file4.csv
-├── min_max_coordinate_extractor.ipynb <---
+└── min_max_coordinate_extractor.ipynb <---
 ```
 ### 3. Run the notebook
 - Make sure that the Data folder containing the csv files is named 'Data'. If not, change the string assigned to 'data_folder_path' at the top of cell 2 to the coresponding folder name.
